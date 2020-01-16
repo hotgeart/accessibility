@@ -1,6 +1,6 @@
 # ACCESSIBILITY
 
-This repo is only for me
+This repo is only for me, don't pull request.
 
 ## Hack Focus
 
