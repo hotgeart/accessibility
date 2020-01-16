@@ -2,6 +2,10 @@
 
 This repo is only for me
 
+## Hack Focus
+
+Check the folder with the JS + SASS
+
 ## Accordion
 
 Check the folder with the edited JS.
