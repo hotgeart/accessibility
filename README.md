@@ -4,7 +4,7 @@ This repo is only for me
 
 ## Hack Focus
 
-Check the folder with the JS + SASS
+Check the folder with the JS + SASS.
 
 ## Accordion
 
