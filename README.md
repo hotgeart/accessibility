@@ -1,4 +1,4 @@
-# accessibility
+# ACCESSIBILITY
 
 This repo is only for me
 
