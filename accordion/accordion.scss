@@ -1,0 +1,24 @@
+.js-accordion {
+  [aria-hidden="true"] {
+    display: none;
+  }
+
+  [class*="_title"] {
+    margin: 0;
+    padding: 0;
+
+    button {
+      cursor: pointer;
+      display: block;
+      width: 100%;
+      padding: 0;
+      border: none;
+      border-radius: 0;
+      text-align: left;
+      background: transparent;
+      appearance: none;
+    }
+  }
+  [class*="_title"] {
+  }
+}
