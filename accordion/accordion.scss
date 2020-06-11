@@ -1,9 +1,9 @@
-.js-accordion {
+.aria-accordion {
   [aria-hidden="true"] {
     display: none;
   }
 
-  [class*="_title"] {
+  [class*="_heading"] {
     margin: 0;
     padding: 0;
 
@@ -19,6 +19,6 @@
       appearance: none;
     }
   }
-  [class*="_title"] {
+  [class*="_panel"] {
   }
 }
