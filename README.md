@@ -10,6 +10,8 @@ Check the folder with the JS + SASS.
 
 Check the folder with the edited JS.
 
+https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/
+
 ## Tablist
 
 https://mynamesleon.github.io/aria-tablist/
