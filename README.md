@@ -10,7 +10,7 @@ Check the folder with the JS + SASS.
 
 Check the folder with the edited JS.
 
-https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/
+https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/tree/master/dist/accordion
 
 ## Tablist
 
