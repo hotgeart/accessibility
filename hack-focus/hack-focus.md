@@ -36,6 +36,7 @@ a,
 [role="link"],
 [role="button"],
 input,
+textarea,
 select,
 button {
   &:focus {
@@ -49,6 +50,7 @@ a,
 [role="link"],
 [role="button"],
 input,
+textarea,
 select,
 button {
   &.focus--mouse {
