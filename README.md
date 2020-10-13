@@ -14,7 +14,7 @@ https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/tree/master/dist/accor
 
 ## Tablist
 
-https://mynamesleon.github.io/aria-tablist/
+https://github.com/scottaohara/a11y_tab_widget
 
 ## Accessible menu
 
