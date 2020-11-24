@@ -31,4 +31,4 @@ if($('#menu-main .menu .is-active').length){
 
 ## Slideshow/Slider
 
-No solution at the moment
+No solution at the moment.
